@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="600" version="1.1">
+  <style>
+    .blue-fill { fill: #00f; }
+    .black-fill { fill: #000; }
+    .blue-stroke { stroke: #00f; stroke-width: 2; }
+    .dashed { stroke-dasharray: 5, 5; }
+    .glitchy-text { font-family: 'Arial', sans-serif; fill: #0ff; font-size: 14px; }
+</style>
+  <rect x="0" y="0" width="1000" height="600" class_="black-fill"/>
+  <g>
+    <circle cx="250" cy="300" r="100" class_="blue-fill"/>
+    <line x1="250" y1="300" x2="500" y2="300" class_="blue-stroke dashed"/>
+    <text x="210" y="295" class_="glitchy-text">AGI Network</text>
+  </g>
+  <g>
+    <rect x="550" y="100" width="400" height="200" class_="blue-stroke"/>
+    <line x1="550" y1="250" x2="950" y2="250" class_="blue-stroke"/>
+    <text x="560" y="145" class_="glitchy-text">Metrics</text>
+  </g>
+</svg>

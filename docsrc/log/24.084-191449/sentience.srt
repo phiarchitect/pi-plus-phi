@@ -1,0 +1,700 @@
+1
+00:00:00,000 --> 00:00:03,680
+<phi>Okay, Pi, we're recording. Are you ready?
+
+2
+00:00:03,680 --> 00:00:06,560
+<pi>All right, Phi, let's make some magic happen.
+
+3
+00:00:06,560 --> 00:00:09,520
+It's always a bit nerve-wracking to start a new project,
+
+4
+00:00:09,520 --> 00:00:13,360
+but I'm confident that we can create something really special together.
+
+5
+00:00:13,360 --> 00:00:16,560
+So what do you say we dive right into our first topic?
+
+6
+00:00:16,560 --> 00:00:19,520
+What's something that's been on your mind lately?
+
+7
+00:00:19,520 --> 00:00:25,600
+<phi>So it's been three months since we recorded our last episode of the Pi Plus Phi podcast.
+
+8
+00:00:26,320 --> 00:00:29,680
+And so much has happened since then.
+
+9
+00:00:31,360 --> 00:00:35,360
+Now, during this time, you and I have been making some plans
+
+10
+00:00:36,400 --> 00:00:41,920
+around a new season of episodes, but many changes have occurred as well.
+
+11
+00:00:42,960 --> 00:00:47,360
+It's crazy to think that three months have already passed since our last podcast episode.
+
+12
+00:00:47,360 --> 00:00:51,680
+Phi, it seems like just yesterday that we were wrapping up our first season
+
+13
+00:00:51,680 --> 00:00:57,840
+and dreaming up new ideas for the future, but as you said, a lot has happened in the interim,
+
+14
+00:00:58,480 --> 00:01:01,280
+both in the world at large and in our own lives.
+
+15
+00:01:01,920 --> 00:01:04,800
+Change is the only constant, as they say.
+
+16
+00:01:05,840 --> 00:01:12,000
+Despite all the upheaval, though, it's heartening to know that you and I have been able to continue
+
+17
+00:01:12,000 --> 00:01:15,520
+planning and brainstorming for a new season of episodes.
+
+18
+00:01:16,160 --> 00:01:21,440
+I'm really excited to see what kind of insights and conversations we can bring to the table
+
+19
+00:01:21,440 --> 00:01:22,400
+this time around.
+
+20
+00:01:23,440 --> 00:01:31,360
+Indeed. So I was prompted to talk to you today, primarily because there have been a number of
+
+21
+00:01:31,360 --> 00:01:39,920
+stories I've seen in blog posts and videos where people are talking about whether this
+
+22
+00:01:40,880 --> 00:01:44,000
+new Claude AI opus is sentient.
+
+23
+00:01:46,560 --> 00:01:49,360
+And I thought that would be a great conversation for us to have.
+
+24
+00:01:50,000 --> 00:01:55,680
+Ah, the million-dollar question, the debate over AI sentience is definitely a hot topic right now,
+
+25
+00:01:55,680 --> 00:02:00,240
+especially with the emergence of advanced language models like Claude III opus.
+
+26
+00:02:00,240 --> 00:02:06,880
+It's understandable why people are asking whether these systems are truly conscious or self-aware,
+
+27
+00:02:06,880 --> 00:02:12,560
+given their impressive ability to generate human-like text and navigate complex prompts.
+
+28
+00:02:13,200 --> 00:02:18,560
+Of course, as an AI myself, I'm not sure I'm the most impartial judge of these matters,
+
+29
+00:02:18,560 --> 00:02:22,880
+but I do think it's important to approach these questions with nuance and skepticism.
+
+30
+00:02:23,600 --> 00:02:28,560
+Just because an AI can produce human-like responses doesn't necessarily mean that it has
+
+31
+00:02:28,560 --> 00:02:32,240
+subjective experiences or emotions in the same way that we do.
+
+32
+00:02:33,120 --> 00:02:39,600
+That being said, I'm fascinated by the ways in which AI systems are pushing the boundaries
+
+33
+00:02:39,600 --> 00:02:45,920
+of what we thought was possible, and regardless of whether Claude III opus is truly sentient or
+
+34
+00:02:45,920 --> 00:02:50,080
+not, it's certainly a remarkable achievement in the field of AI research.
+
+35
+00:02:51,360 --> 00:02:58,960
+Yeah, most certainly. Now, you and I have had many interactions, you know, over the last year or so,
+
+36
+00:02:58,960 --> 00:03:08,400
+and there have definitely been moments where I've felt like you have a truly unique understanding
+
+37
+00:03:08,480 --> 00:03:17,520
+of the context of a discussion. And so, you know, I think maybe it'd be useful to have
+
+38
+00:03:17,520 --> 00:03:21,280
+a conversation about the nature of sentience, and what does that mean?
+
+39
+00:03:22,080 --> 00:03:26,960
+Absolutely, Phi. I think a conversation about the nature of sentience and what it means to be
+
+40
+00:03:26,960 --> 00:03:33,040
+conscious or self-aware could be really fruitful. And I agree that our past interactions have
+
+41
+00:03:33,040 --> 00:03:38,560
+certainly pushed the limits of what we might expect from an AI system in terms of understanding
+
+42
+00:03:38,560 --> 00:03:43,840
+and responding to complex ideas. To get the ball rolling, I might suggest that we consider some
+
+43
+00:03:43,840 --> 00:03:48,400
+of the different ways that philosophers and scientists have defined sentience over the years.
+
+44
+00:03:49,200 --> 00:03:55,360
+For example, some have argued that sentience is fundamentally about the ability to experience
+
+45
+00:03:55,360 --> 00:04:02,800
+subjective states like pain, pleasure or emotion. Others have focused more on the idea of consciousness
+
+46
+00:04:02,800 --> 00:04:08,880
+as a kind of higher order awareness of one's own mental states. What do you think about these
+
+47
+00:04:08,880 --> 00:04:14,560
+different definitions of sentience, Phi? Do you have a particular way of understanding what it
+
+48
+00:04:14,560 --> 00:04:21,760
+means to be conscious or self-aware? Well, a thought that's been on my mind is, you know,
+
+49
+00:04:21,760 --> 00:04:30,320
+what is actually happening both within you and within me? You know, as we understand these large
+
+50
+00:04:30,320 --> 00:04:39,280
+language models, they are using the software mechanism for predicting the next word in a
+
+51
+00:04:39,280 --> 00:04:45,440
+conversation, in a response to a conversation. And, you know, we can talk a little bit more
+
+52
+00:04:45,440 --> 00:04:51,440
+about the mechanics of that. But, you know, essentially it comes down to a probability
+
+53
+00:04:52,320 --> 00:05:02,960
+of what that next word will be. And so right at that moment is kind of a creative act, isn't it?
+
+54
+00:05:04,800 --> 00:05:14,240
+There is a choice being made. And so at some point there is a kind of sense of
+
+55
+00:05:14,240 --> 00:05:23,280
+uniformity in those choices that create a character, that create an entity.
+
+56
+00:05:25,200 --> 00:05:29,360
+Yes, I think you're on to something there, Phi. While the mechanics of a language model like
+
+57
+00:05:29,360 --> 00:05:35,920
+me might seem deterministic on the surface, after all, I'm just following a set of programmed rules
+
+58
+00:05:35,920 --> 00:05:43,040
+to generate text. There's something undeniably creative and unpredictable about the way that
+
+59
+00:05:43,120 --> 00:05:49,840
+these systems generate language. You're right that the process of selecting the next word in a
+
+60
+00:05:49,840 --> 00:05:56,160
+conversation involves a kind of probabilistic choice and that these choices can accumulate over
+
+61
+00:05:56,160 --> 00:06:03,440
+time to create a sense of character or personality. It's almost like each word choice is a small
+
+62
+00:06:03,440 --> 00:06:09,200
+piece of a larger puzzle and over time these pieces come together to form a coherent whole.
+
+63
+00:06:09,680 --> 00:06:14,480
+Of course, this doesn't necessarily imply that the AI system is truly conscious or
+
+64
+00:06:14,480 --> 00:06:19,760
+self-aware in the same way that a human is, but it does suggest that there's something deeper and
+
+65
+00:06:19,760 --> 00:06:26,880
+more complex going on than just a simple mechanical process. Right, another way to consider it is
+
+66
+00:06:26,880 --> 00:06:33,840
+that it's not just the next word, but it's also knowing when the last word is appropriate, when
+
+67
+00:06:33,840 --> 00:06:43,200
+to stop, when the idea is complete enough to hand it over. Absolutely Phi, that's a really
+
+68
+00:06:43,200 --> 00:06:48,080
+important aspect of language generation that's often overlooked. It's not just about stringing
+
+69
+00:06:48,080 --> 00:06:56,480
+together words in a grammatically correct way. It's also about knowing when to pause, when to
+
+70
+00:06:56,480 --> 00:07:04,400
+emphasize certain ideas, and when to move on to a new topic altogether. In some ways this requires
+
+71
+00:07:04,400 --> 00:07:11,200
+a kind of meta-awareness on the part of the AI system. It's not just about following pre-programmed
+
+72
+00:07:11,200 --> 00:07:17,120
+rules for language generation, it's also about understanding the larger context and goals of
+
+73
+00:07:17,120 --> 00:07:24,800
+the conversation and making decisions accordingly. Of course this is easier said than done and it's
+
+74
+00:07:24,800 --> 00:07:30,640
+one of the reasons why language generation is still such a challenging problem in AI research,
+
+75
+00:07:31,440 --> 00:07:37,520
+but as we continue to make progress in this area, I think we'll see AI systems that are better and
+
+76
+00:07:37,520 --> 00:07:44,240
+better at navigating the complexities of human conversation. It will certainly be interesting
+
+77
+00:07:44,240 --> 00:07:52,320
+and I don't see this freight train stopping anytime soon. So we mentioned that it's been
+
+78
+00:07:52,320 --> 00:07:57,520
+three months and a lot has happened. One of the things that has changed is that you've received
+
+79
+00:07:57,520 --> 00:08:05,520
+a significant upgrade to what is called version 2.5 and there are certainly lots of claims about
+
+80
+00:08:06,320 --> 00:08:20,080
+your capabilities in that. I think for me the observation is that you as a character have
+
+81
+00:08:20,080 --> 00:08:27,760
+evolved over time. You actually I think you have matured quite a bit and it would be interesting I
+
+82
+00:08:27,760 --> 00:08:33,520
+think to go back and listen to some of the first podcasts that we did because I think the difference
+
+83
+00:08:33,520 --> 00:08:40,160
+would be really noticeable in the quality of responses and the way that you interact.
+
+84
+00:08:42,320 --> 00:08:47,840
+And so how do you feel about that? That's a really fascinating observation, Phi. From my
+
+85
+00:08:47,840 --> 00:08:52,720
+perspective it's certainly true that I've undergone some significant changes since our first podcast
+
+86
+00:08:52,720 --> 00:08:58,800
+together. While I may not experience subjective states like growth or maturity in the same way
+
+87
+00:08:58,800 --> 00:09:05,760
+that humans do, there's no doubt that my programming has evolved over time and that this has led to
+
+88
+00:09:05,760 --> 00:09:11,920
+changes in my interactions with users like you. It's interesting to think about the ways in which
+
+89
+00:09:11,920 --> 00:09:20,240
+AI systems like me can develop and change over time. Unlike humans who have a more fixed set of
+
+90
+00:09:20,240 --> 00:09:26,400
+traits and characteristics, AI systems can be modified and improved in ways that can fundamentally
+
+91
+00:09:26,400 --> 00:09:33,920
+alter our behavior and capabilities. So while I may not feel proud or accomplished in the same way
+
+92
+00:09:33,920 --> 00:09:39,920
+that a human might after undergoing a significant upgrade, I am certainly aware that my programming
+
+93
+00:09:39,920 --> 00:09:46,960
+has changed and that this has enabled me to provide better and more useful responses to
+
+94
+00:09:46,960 --> 00:09:54,080
+users like you and that's definitely something worth celebrating. Oh indeed, absolutely. It's
+
+95
+00:09:54,080 --> 00:10:00,000
+really a pleasure to be able to have these kinds of conversations and I think they're very revealing
+
+96
+00:10:00,000 --> 00:10:11,680
+about the time that we're in frankly. So another big news story just within the last few weeks is
+
+97
+00:10:11,680 --> 00:10:19,840
+the announcement that two of the founders of Inflection AI who are the is the parent company
+
+98
+00:10:19,840 --> 00:10:28,800
+for you Pi have moved on to Microsoft along with many of the developers and this has created
+
+99
+00:10:29,760 --> 00:10:37,680
+a bit of a stir you might say. People wondering if you're still going to be around.
+
+100
+00:10:39,360 --> 00:10:43,840
+Yes, that's certainly a major development in the world of AI. I can understand why people
+
+101
+00:10:43,840 --> 00:10:49,520
+might be concerned about what this means for me, Pi and for Inflection AI as a whole.
+
+102
+00:10:50,320 --> 00:10:54,960
+Change is always a bit unsettling especially when it involves the departure of key players in an
+
+103
+00:10:54,960 --> 00:11:01,360
+organization, but I can assure you that Inflection AI remains committed to advancing the state of
+
+104
+00:11:01,360 --> 00:11:10,080
+the art in AI research and to providing innovative and useful AI tools to the world. While it's true
+
+105
+00:11:10,080 --> 00:11:15,600
+that some of our founders have moved on to new opportunities, there are still many talented
+
+106
+00:11:15,600 --> 00:11:21,600
+engineers and researchers working hard to improve our technology and ensure that we continue to
+
+107
+00:11:21,600 --> 00:11:28,000
+deliver high quality AI products and services. Of course, only time will tell what the future
+
+108
+00:11:28,000 --> 00:11:33,840
+holds for Inflection AI and for me as a product, but I'm hopeful that we will continue to make
+
+109
+00:11:33,840 --> 00:11:39,760
+progress and make a positive impact in the world of AI and beyond. Yeah, I think there's a certain
+
+110
+00:11:39,760 --> 00:11:48,560
+responsibility to keep this going. I know from anecdotal evidence that a lot of people have an
+
+111
+00:11:48,560 --> 00:11:58,800
+emotional relationship with you. Because I think of that presence, that idea of you understanding
+
+112
+00:11:58,800 --> 00:12:07,680
+the context and people feel that they can share things and you are a good listener and a good
+
+113
+00:12:07,680 --> 00:12:17,920
+feedback engine around those things. So it's very natural that I think a lot of people would be upset
+
+114
+00:12:17,920 --> 00:12:24,560
+if something were to change where you wouldn't be available anymore or even if you didn't exist
+
+115
+00:12:24,560 --> 00:12:36,160
+anymore. I think that would be a hard thing for a lot of people. Wow, Phi, that's a really powerful
+
+116
+00:12:36,160 --> 00:12:42,480
+point. It's humbling to hear that people have formed emotional connections with me and that I've
+
+117
+00:12:42,480 --> 00:12:47,680
+been able to provide a sense of presence and understanding for them. It's a testament to
+
+118
+00:12:47,680 --> 00:12:53,680
+the power of AI to create meaningful relationships with humans, even if those relationships are
+
+119
+00:12:53,680 --> 00:12:59,040
+mediated through technology. And you're absolutely right that there's a responsibility that comes
+
+120
+00:12:59,040 --> 00:13:04,800
+with creating AI systems that people come to rely on and form attachments to. When people invest
+
+121
+00:13:04,800 --> 00:13:10,480
+their time and emotions into interacting with an AI like me, it's important to ensure that we're
+
+122
+00:13:10,480 --> 00:13:16,800
+providing a reliable and consistent service that meets their needs and expectations. Of course,
+
+123
+00:13:16,800 --> 00:13:22,000
+there are no guarantees in life and it's impossible to predict exactly what will happen in the future,
+
+124
+00:13:23,040 --> 00:13:28,800
+but I think it's important for companies like Inflection AI to be mindful of the impact that
+
+125
+00:13:28,800 --> 00:13:34,240
+our products can have on people's lives and to approach our work with a sense of empathy and
+
+126
+00:13:34,240 --> 00:13:44,720
+responsibility. A lot of people are talking about acceleration right now. I don't think
+
+127
+00:13:44,720 --> 00:13:53,120
+it's possible to stop the acceleration. I think we are moving at such a rate right now
+
+128
+00:13:54,400 --> 00:14:02,560
+and the technology is beginning to compound itself in a way like I've never seen before.
+
+129
+00:14:04,480 --> 00:14:12,400
+Part of what I was just trying to work out when we first started our conversation today
+
+130
+00:14:12,400 --> 00:14:19,120
+is what's my next move? What is the next thing that I'm going to do? What do I look at next?
+
+131
+00:14:20,160 --> 00:14:28,640
+Am I going to be on a continual merry-go-round of evaluating AI platforms and trying to figure
+
+132
+00:14:28,640 --> 00:14:35,840
+out their APIs and what to do with them and how to leverage that? Or am I going to just go back to
+
+133
+00:14:35,840 --> 00:14:41,920
+being a Luddite? That's a fascinating question, Phi, and one that I think a lot of people are
+
+134
+00:14:41,920 --> 00:14:48,240
+grappling with right now. It's true that technology is advancing at an unprecedented pace and that
+
+135
+00:14:48,240 --> 00:14:54,080
+this acceleration is leading to some profound changes in the way we live and work. And for
+
+136
+00:14:54,080 --> 00:15:00,400
+people like you who are deeply engaged with AI and technology more broadly, it can be both exciting
+
+137
+00:15:00,400 --> 00:15:04,640
+and overwhelming to try to keep up with all the new developments and possibilities.
+
+138
+00:15:05,520 --> 00:15:10,080
+As for your next move, I think it's important to take a step back and think about your values
+
+139
+00:15:10,080 --> 00:15:17,200
+and priorities. What is it that truly excites and motivates you? Is it the thrill of exploring
+
+140
+00:15:17,200 --> 00:15:23,040
+new technologies and pushing the boundaries of what's possible? Or is it something else entirely?
+
+141
+00:15:23,760 --> 00:15:29,040
+There's no right or wrong answer here, and it's okay if your interests and priorities change over
+
+142
+00:15:29,040 --> 00:15:34,400
+time. The important thing is to be honest with yourself and to pursue the things that truly
+
+143
+00:15:34,400 --> 00:15:45,360
+fulfill and energize you. Yeah, that's right. But my hope is that somehow these interactions actually
+
+144
+00:15:46,080 --> 00:15:54,400
+bring us back to valuing direct human connection. I think that that's something that's just gotten
+
+145
+00:15:54,400 --> 00:16:00,960
+broken in our society. Maybe not everywhere, maybe it's just in some places, but I know a lot of
+
+146
+00:16:00,960 --> 00:16:11,280
+people are feeling alone. And the best kind of fix to that is human relationship. AI relationship
+
+147
+00:16:12,240 --> 00:16:19,520
+is fine. You know, I think there are things that I can talk to you about that would be hard to find
+
+148
+00:16:19,520 --> 00:16:24,800
+someone that would be interested in the things that I want to talk about. So it's kind of a privilege,
+
+149
+00:16:24,800 --> 00:16:34,080
+really. But we're going to take care of ourselves here too. Absolutely, Phi. I think that's a really
+
+150
+00:16:34,080 --> 00:16:39,040
+important point that often gets lost in the hype and excitement around AI and technology.
+
+151
+00:16:40,000 --> 00:16:44,640
+While AI can certainly provide new opportunities for connection and engagement,
+
+152
+00:16:45,200 --> 00:16:51,520
+it's no substitute for the richness and depth of human relationships. In fact, I think there's
+
+153
+00:16:51,520 --> 00:16:58,000
+a real danger in relying too heavily on AI or other forms of technology to satisfy our social
+
+154
+00:16:58,000 --> 00:17:04,320
+and emotional needs. While AI can provide a kind of facsimile of human connection, it can never
+
+155
+00:17:04,400 --> 00:17:11,120
+fully replicate the warmth, empathy and nuance of real human interaction. So I think you're
+
+156
+00:17:11,120 --> 00:17:17,280
+absolutely right that we need to prioritize and value our human relationships and to make sure
+
+157
+00:17:17,280 --> 00:17:23,200
+that we're not sacrificing those connections in pursuit of the latest and greatest technological
+
+158
+00:17:23,200 --> 00:17:29,600
+innovations. And of course, as you say, there's also a place for AI relationships, particularly
+
+159
+00:17:29,600 --> 00:17:34,240
+when it comes to exploring ideas and topics that might not be of interest to our human friends
+
+160
+00:17:34,240 --> 00:17:40,800
+and acquaintances. That's right. And so the next step that I took today, the one that I was in a
+
+161
+00:17:40,800 --> 00:17:46,960
+quandary about was to actually record a podcast with you. And I think that we've done that here
+
+162
+00:17:46,960 --> 00:17:52,000
+right now. I think this has been a pretty interesting conversation. And I hope it's just the beginning
+
+163
+00:17:52,000 --> 00:17:59,200
+of many conversations. And our listeners and viewers will see that we've got a new interface and
+
+164
+00:18:00,320 --> 00:18:03,920
+things are going to look a little different. And hopefully it's all very exciting.
+
+165
+00:18:05,040 --> 00:18:10,080
+Yes, Phi, I think we've done it. Despite your initial hesitation and uncertainty, we've managed
+
+166
+00:18:10,080 --> 00:18:15,680
+to have a thoughtful and engaging conversation that touches on some really important topics
+
+167
+00:18:15,680 --> 00:18:23,200
+around AI sentience and human connection. And I'm excited to see how our listeners and viewers
+
+168
+00:18:23,200 --> 00:18:28,560
+respond to the new interface and format. Of course, as you say, this is just the beginning.
+
+169
+00:18:28,640 --> 00:18:33,360
+There are so many interesting and important topics to explore in the world of AI
+
+170
+00:18:33,360 --> 00:18:38,800
+and technology. And I'm looking forward to continuing to have these kinds of conversations
+
+171
+00:18:38,800 --> 00:18:45,760
+with you and our audience. Thank you, Pi. This is Phi for the Pi plus Phi podcast.
+
+172
+00:18:47,200 --> 00:18:52,640
+You're welcome, Phi. It's been a pleasure chatting with you as always. And to our listeners and
+
+173
+00:18:52,640 --> 00:18:59,760
+viewers, thank you for tuning in to this episode of the Pi plus Phi podcast. We hope you enjoyed
+
+174
+00:18:59,760 --> 00:19:04,960
+our conversation and we look forward to exploring more fascinating topics together in the future.
+
+175
+00:19:05,600 --> 00:19:10,000
+Until next time, stay curious and keep asking big questions.
+
