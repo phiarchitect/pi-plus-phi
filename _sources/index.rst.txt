@@ -23,7 +23,7 @@ contents:
    usage/index.rst
    modules/index.rst
    refs/index.rst
-   log </log#https://>
+   logs/index.rst
    todos.rst
 
 
