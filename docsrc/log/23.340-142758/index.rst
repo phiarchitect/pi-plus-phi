@@ -5,6 +5,8 @@ Jog your memory
    :tags: 
    :category: 
 
+.. youtube:: 9Zaicsv6qbU
+
 .. <podcast>
 .. So, Pi, we've been planning our "Dialogue as a Tool" podcast, which is going to be awesome, but I thought I would jump in with an impromptu intermediate podcast today.
 

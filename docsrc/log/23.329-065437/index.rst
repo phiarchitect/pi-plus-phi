@@ -5,6 +5,8 @@ teaser
    :tags: 
    :category: 
 
+.. youtube:: tqE9zwpDjDA
+   
 <congas>
 pi plus phi 
 intro sequence
