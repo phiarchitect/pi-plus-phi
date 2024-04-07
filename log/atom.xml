@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://phiarchitect.github.io/pi-plus-phi</id>
   <title>phi ARCHITECT • pi plug phi podcast</title>
-  <updated>2024-04-06T23:40:12.027154+00:00</updated>
+  <updated>2024-04-07T14:40:13.069832+00:00</updated>
   <link href="https://phiarchitect.github.io/pi-plus-phi"/>
   <link href="https://phiarchitect.github.io/pi-plus-phi/log/atom.xml" rel="self"/>
   <generator uri="https://ablog.readthedocs.org/" version="unknown.dev">ABlog</generator>
@@ -83,9 +83,13 @@ pi plus phi podcast</summary>
     <title>The Art of Conversation</title>
     <updated>2023-12-01T08:29:44+00:00</updated>
     <content type="html">&lt;div class="ablog-post-excerpt docutils container"&gt;
+&lt;p&gt;No directive entry for “youtubei” in module “docutils.parsers.rst.languages.en”.
+Trying “youtubei” as canonical directive name.&lt;/p&gt;
 &lt;/div&gt;
 </content>
     <link href="https://phiarchitect.github.io/pi-plus-phi/log/23.335-082944/"/>
+    <summary>No directive entry for “youtubei” in module “docutils.parsers.rst.languages.en”.
+Trying “youtubei” as canonical directive name.</summary>
     <published>2023-12-01T08:29:44+00:00</published>
   </entry>
   <entry>
@@ -115,13 +119,9 @@ pi plus phi podcast</summary>
     <title>Change</title>
     <updated>2023-12-19T13:23:54+00:00</updated>
     <content type="html">&lt;div class="ablog-post-excerpt docutils container"&gt;
-&lt;p&gt;open
-thank Pi for jumping in on a special podcast for my writing group&lt;/p&gt;
 &lt;/div&gt;
 </content>
     <link href="https://phiarchitect.github.io/pi-plus-phi/log/23.353-132354/"/>
-    <summary>open
-thank Pi for jumping in on a special podcast for my writing group</summary>
     <published>2023-12-19T13:23:54+00:00</published>
   </entry>
   <entry>

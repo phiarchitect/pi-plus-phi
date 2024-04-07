@@ -5,46 +5,46 @@ Change
    :tags: 
    :category: 
 
+.. youtube:: tLLawGpp6R0
+
+.. open
+.. thank Pi for jumping in on a special podcast for my writing group
+
+.. St John Henry Newman at the Word on Fire Institute
+
+.. Bishop Barron
+
+.. pi introduction
+
+.. fever dream
+
+.. shift to the spoken word
 
 
-open
-thank Pi for jumping in on a special podcast for my writing group
+.. **change**
 
-St John Henry Newman at the Word on Fire Institute
+.. who is speaking into this wilderness of change
 
-Bishop Barron
+.. to live is to change, and to be perfect is to have changed often
 
-pi introduction
+.. productivity Pi
 
-fever dream
-
-shift to the spoken word
-
-
-**change**
-
-who is speaking into this wilderness of change
-
-to live is to change, and to be perfect is to have changed often
-
-productivity Pi
-
-development of doctrine
-idea of a university
-knowledge
+.. development of doctrine
+.. idea of a university
+.. knowledge
 
 
-LLM as university
-compression of the worlds knowledge
+.. LLM as university
+.. compression of the worlds knowledge
 
-resources energy
+.. resources energy
 
-books are to the traditional print houses
-as 
-LLMs are to the data center
+.. books are to the traditional print houses
+.. as 
+.. LLMs are to the data center
 
 
-call to action
-saints are needed
+.. call to action
+.. saints are needed
 
-church should be at the forefront
+.. church should be at the forefront
