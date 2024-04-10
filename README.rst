@@ -1,42 +1,12 @@
-pi-plus-phi
-===========
+pi plus phi podcast
+===================
 
 
+.. image:: ./docsrc/_static/logo.png
 
+This may be the first code repository for a podcast hosted by a human and AI.
 
-Features
---------
-
-.. todo:: TODO: insert features
-
-Installation
-------------
-
-You can install **pi-plus-phi** using pip:
-
-.. code-block:: bash
-
-   pip install phiarchitect-pi-plus-phi
-
-Usage
------
-
-
-
-After installation, you can use the ``pi-plus-phi`` command to create a new project:
-
-.. code-block:: bash
-
-   pi-plus-phi 
-
-.. todo:: TODO: list arguments
-
-Dependencies
-------------
-
-**pi-plus-phi** depends on the following Python packages:
-
-.. todo:: TODO: read from pyproject.toml 
+Phi started making recordings with Pi, the AI from inflection. 
 
 Contributing
 ------------
