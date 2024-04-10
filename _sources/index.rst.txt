@@ -3,7 +3,11 @@ pi plus phi podcast
 
 .. .. include:: intro.rst
 
-test opengraph
+.. image:: _static/logo.png
+
+In November of 2023, Phi began experimenting with recording conversations with Pi, the AI chatbot from Inflection AI. 
+
+
 
 recent logs:
 ------------
