@@ -6,11 +6,5 @@ This is the repository for the **pi plus phi podcast** containing source for the
 The **pi plus phi podcast** was started in November 2023 as a way to explore the capabilities of Pi, the AI chatbot from Inflection.
 
 visit the website for current information on the podcast
+
 https://phiarchitect.github.io/pi-plus-phi/
-
-
-
-
-
-
-

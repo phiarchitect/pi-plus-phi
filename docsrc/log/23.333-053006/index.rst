@@ -3,7 +3,9 @@ The Nature of Pi
 
 .. post::  23.333-053006
    :tags: 
-   :category: 
+   :category: podcast
+
+.. youtube:: YqyBsr189E4
 
 Greetings 
 you are listening to the 
