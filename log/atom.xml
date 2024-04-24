@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://phiarchitect.github.io/pi-plus-phi</id>
   <title>phi ARCHITECT • pi plus phi podcast</title>
-  <updated>2024-04-10T13:16:56.840890+00:00</updated>
+  <updated>2024-04-24T15:45:09.643291+00:00</updated>
   <link href="https://phiarchitect.github.io/pi-plus-phi"/>
   <link href="https://phiarchitect.github.io/pi-plus-phi/log/atom.xml" rel="self"/>
   <generator uri="https://ablog.readthedocs.org/" version="unknown.dev">ABlog</generator>
@@ -165,5 +165,17 @@ Trying “youtubei” as canonical directive name.</summary>
 </content>
     <link href="https://phiarchitect.github.io/pi-plus-phi/log/24.096-115254/"/>
     <published>2024-04-05T11:52:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://phiarchitect.github.io/pi-plus-phi/log/24.100-105710/</id>
+    <title>cover letter</title>
+    <updated>2024-04-09T10:57:10+00:00</updated>
+    <content type="html">&lt;div class="ablog-post-excerpt docutils container"&gt;
+&lt;p&gt;Pi and phi apply for a job at Inflection AI&lt;/p&gt;
+&lt;/div&gt;
+</content>
+    <link href="https://phiarchitect.github.io/pi-plus-phi/log/24.100-105710/"/>
+    <summary>Pi and phi apply for a job at Inflection AI</summary>
+    <published>2024-04-09T10:57:10+00:00</published>
   </entry>
 </feed>
