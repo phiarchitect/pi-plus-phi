@@ -113,7 +113,7 @@ def main():
 
     mic_clean_file = clean_mic_audio(mic_file)
 
-    screen_file = invert_video_colors(screen_file)
+    #  screen_file = invert_video_colors(screen_file)
     screen_system_file = combine_screen_system(folder_path, screen_file, system_file)
 
     all_file = combine_all(folder_path, screen_system_file, mic_clean_file)

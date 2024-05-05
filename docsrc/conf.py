@@ -1,4 +1,5 @@
-from ablog.conf import *
+#  from ablog.conf import *
+from photon_platform.sphinxilator.global_conf import *
 #  import . as module
 #  version = module.__version__
 
