@@ -24,15 +24,12 @@ contents:
    :maxdepth: 2
 
    mission/index.rst
-   usage/index.rst
+   logs.rst
    modules/index.rst
    refs/index.rst
-   logs/index.rst
    todos.rst
 
 
-Indices and tables
-==================
 
 * :ref:`genindex`
 * :ref:`modindex`
